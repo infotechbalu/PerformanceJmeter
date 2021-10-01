@@ -1,0 +1,5 @@
+testcaseid,description,keywords
+TC001,DisplayProductList,Homepage;Login_dashboard;ProductList;Logout
+TC002,AddItemtoCart,Homepage;Login_dashboard;ProductList;Add_Item;User_Shop;MyCart;Logout
+TC003,BuyProduct,Homepage;Login_dashboard;ProductList;Add_Item;MyCart;BuyNow_Product;ContinueBuy;Logout
+TC004,CreateEditProduct,Homepage;Login_dashboard;Logout
